@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Bạc Hà",
+    "vnName": "Bạc hà, Nạt nặm, Bạc hà nam, Chạ phiăc chom (Tày)",
+    "scientificName": "Mentha arvensis L.",
+    "family": "Lamiaceae (Bạc hà)",
+    "uses": "Thuốc làm nóng, sát trùng, dễ tiêu, chữa cảm cúm, nhức đầu sổ mũi, đau bụng (Lá)."
+  },
+  {
+    "id": 2,
+    "name": "Bạch Đồng Nữ",
+    "vnName": "Bạch đồng nữ, Vậy trắng, Mò trắng, Bấn trắng, Lẹo trắng, Poóng phi đớn (Thái), Mạy xì cáy phà, Poong pị (Tày)",
+    "scientificName": "Clerodendrum canescens Wall. ex Schauer.",
+    "family": "Verbenaceae (Cỏ roi ngựa)",
+    "uses": "Viêm gan vàng da, bạch đới, điều kinh, ho, ho ra máu, sốt, lỵ trực trùng (Rễ sắc uống)."
+  },
+  {
+    "id": 3,
+    "name": "Cam Thảo Đất",
+    "vnName": "Cam thảo đất, Cam thảo nam, Dã cam thảo, Thổ cam thảo, Trôm lay (Kho), Dạ kham (Tày",
+    "scientificName": "Scoparia duicis L.",
+    "family": "Scrophulariaceae (Hoa mõm chó)",
+    "uses": "Thuốc hạ nhiệt, điều kinh, giảm ho, sởi, tê phù, cảm cúm, lỵ trực trùng (cả cây)."
+  },
+  {
+    "id": 4,
+    "name": "Co Man Trau",
+    "vnName": "Cỏ mần trầu, Cỏ vườn trầu, Cỏ màn trầu, Cỏ dáng, ngưu tâm thảo, thanh tâm thảo",
+    "scientificName": "Eleusine indica (L.) Gaertn",
+    "family": "Lúa - Poaceae",
+    "uses": "Hạ nhiệt, làm ra mồ hôi, tiêu viêm, làm ra hồ hôi, cầm máu, làm mát gan"
+  },
+  {
+    "id": 5,
+    "name": "Cúc Tần",
+    "vnName": "Cúc tần, Từ bi, Cây lức, Phật phà, Vật và (Tày)",
+    "scientificName": "Pluchea indica (L.) Less.",
+    "family": "Asteraceae (Cúc)",
+    "uses": "Chữa ho, cảm sốt, nhức đầu, sốt xuất huyết (Lá). Cả cây dùng chữa cảm mạo, nóng không ra mồ hôi, bí tiểu tiện; phong tê bại, đau nhức xương, đau thắt lưng; trẻ em ăn uống chậm tiêu."
+  },
+  {
+    "id": 6,
+    "name": "Diệp Hạ Châu",
+    "vnName": "Diệp hạ châu, cây chó đẻ, cỏ chó đẻ",
+    "scientificName": "Phyllanthus amarus Schum. et Thonn",
+    "family": "Euphorbiaceae - Thầu dầu",
+    "uses": "Thuốc thông tiểu, thông sữa, điều kinh, thông kinh trục ứ. Đắp ngoài chữa mụn nhọt, lở ngứa."
+  },
+  {
+    "id": 7,
+    "name": "Hạ Khô Thảo",
+    "vnName": "Hạ khô thảo",
+    "scientificName": "Prunella vulgaris L.",
+    "family": "Lamiaceae (Hoa môi)",
+    "uses": "Chữa lậu, tràng nhạc, lao hạch, viêm họng, ho, xích bạch đới, viêm gan, viêm tử cung, đái đường, mụn nhọt, cao huyết áp, sưng vú (cả cây sắc uống)."
+  },
+  {
+    "id": 8,
+    "name": "Hoắc Hương",
+    "vnName": "Hoắc Hương",
+    "scientificName": "Pogostemon cablin (Blanco) Benth.",
+    "family": "Lamiaceae (Hoa môi)",
+    "uses": "Chữa cảm lạnh, nôn mửa, khó tiêu, đau bụng, ỉa chảy (cả cây trừ rễ)."
+  },
+  {
+    "id": 9,
+    "name": "Húng Chanh",
+    "vnName": "Húng chanh, Rau tần dày lá, Rau thơm lông, Dương tử tô",
+    "scientificName": " Plectranthus amboinicus (Lour.) Spreng.",
+    "family": "Lamiaceae (Hoa môi)",
+    "uses": "Chữa ho, viêm họng, sát trùng, khản tiếng (Lá tươi ngậm với muối nuốt nước). Cảm cúm (Lá nấu nước xông). Còn chữa sốt cao, ngộ độc, nôn ra máu, chảy máu mũi, đau bụng."
+  },
+  {
+    "id": 10,
+    "name": "Hy Thiêm",
+    "vnName": "Cỏ đĩ, Cứt lợn, Hy kiểm thảo, Hy tiên, Niêm hồ thái, Chư cao, Hổ cao, Chó đẻ, Nụ áo rìa",
+    "scientificName": "Siegesbeckia orientalis L.",
+    "family": "Asteraceae (Cúc)",
+    "uses": "khử phong thấp, lợi gân cốt. Chữa chân tay tê dại, lưng mòi, gối đau, phong thấp."
+  },
+  {
+    "id": 11,
+    "name": "Kinh Giới",
+    "vnName": "Kinh giới, Khương giới, Giả tô, Nhả nát hom (Thái), Phjắc hom khao (Tày)",
+    "scientificName": "Elsholtzia ciliata ( Thunb.) Hyland.",
+    "family": "Lamiaceae (Hoa môi)",
+    "uses": "Chữa cảm cúm, nôn ra máu, băng huyết, viêm dạ dày, viêm ruột cấp tính, bại liệt, phong thấp (Cành, lá, cụm hoa sắc uống)."
+  },
+  {
+    "id": 12,
+    "name": "Sâm Ngọc Linh",
+    "vnName": "Sâm Ngọc Linh, Thuốc giấu, Nhân sâm Việt Nam,Sâm K5",
+    "scientificName": "Panax vietnamensis Ha et Grushv.",
+    "family": "Araliaceae (Nhân sâm)",
+    "uses": "Ăn ngon, ngủ tốt, lên cân, tăng thị lực, hoạt động trí tuệ và thể lực cải thiện, gia tăng sức đề kháng, cải thiện các trường hợp suy nhược thần kinh và suy nhược sinh dục"
+  }
+]
